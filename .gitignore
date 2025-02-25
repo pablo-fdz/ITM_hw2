@@ -173,3 +173,5 @@ cython_debug/
 # 
 books_and_genres.csv
 clean_data.csv
+dtm_with_genres.csv
+.DS_Store
